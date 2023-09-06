@@ -12,7 +12,6 @@ redirect_from:
 I am a graduated undergraduate student of [Southeast University](https://www.seu.edu.cn/) (2019-2023) and will join [The Hong Kong University of Science and Technology](https://hkust.edu.hk) as a PhD student in 2024 spring.
 I am fortunate to be advised by [Junxian He](https://jxhe.github.io/). 
 
-COYG!
 
 ## Research
 I am generally interested in natural language processing and machine learning and currently working on model merging.
@@ -31,4 +30,5 @@ Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://gi
 
 ## Awards
 Outstanding Undergraduate Thesis in SEU (top 3%)
+
 National Scholarship (2021)
