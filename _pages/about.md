@@ -34,4 +34,5 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 
 ## Awards
 Outstanding Undergraduate Thesis in SEU (top 3%)
+
 National Scholarship (2021)
