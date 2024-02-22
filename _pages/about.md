@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a graduated undergraduate student of [Southeast University](https://www.seu.edu.cn/) (2019-2023) and will join [The Hong Kong University of Science and Technology](https://hkust.edu.hk) as a PhD student in 2024 spring.
+I am a PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/).
 I am fortunate to be advised by [Junxian He](https://jxhe.github.io/). 
 
 
@@ -32,7 +32,10 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 Shiqi Chen, Yiran Zhao, *<ins>Jinghan Zhang</ins>*, I-Chun Chern, Siyang Gao, Pengfei Liu, Junxian He$^\dagger$  
 NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2310.00741) [[github]](https://github.com/hkust-nlp/felm) [[website]](https://hkust-nlp.github.io/felm/) [[dataset]](https://huggingface.co/datasets/hkust-nlp/felm)
 
-## Awards
-Outstanding Undergraduate Thesis in SEU (top 3%)
+## Education
+[The Hong Kong University of Science and Technology](https://hkust.edu.hk) (PhD program, 2024 spring-)  
+[Southeast University](https://www.seu.edu.cn/) (Undergradutes, 2019-2023)
 
+## Awards
+Outstanding Undergraduate Thesis in SEU (top 3%)  
 National Scholarship (2021)
