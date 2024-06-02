@@ -71,7 +71,7 @@ Shiqi Chen, Yiran Zhao, *<ins>Jinghan Zhang</ins>*, I-Chun Chern, Siyang Gao, Pe
 </div>
 </div>
 
-<-- **Composing Parameter-Efficient Modules with Arithmetic Operations**  
+<!-- **Composing Parameter-Efficient Modules with Arithmetic Operations**  
 *<ins>Jinghan Zhang</ins>*, Shiqi Chen, Junteng Liu, Junxian He$^\dagger$  
 NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2306.14870) [[github]](https://github.com/hkust-nlp/PEM_composition)
 
