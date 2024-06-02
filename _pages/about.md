@@ -100,5 +100,5 @@ Happy to chat about any topics :)
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/zhangcharlotte84/15min', text: 'Happy to chat about any topics :)', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/zhangcharlotte84/15min', text: 'Happy to chat about any topics :)', color: '#2162da', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
