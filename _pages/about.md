@@ -55,11 +55,12 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 - *2023.11 - 2024.01* Research Assistant, Department of CSE, [HKUST](https://hkust.edu.hk), Hong Kong SAR, China.
 - *2019.09 - 2023.06* Undergraduate, Artificial Intelligence, [Southeast University](https://www.seu.edu.cn/), Nanjing, China.
 
-## 🧑🏻‍💻 Contact
+<!--## 🧑🏻‍💻 Contact
 Happy to chat about any topics :)
+-->
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/zhangcharlotte84/15min', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/zhangcharlotte84/15min', text: 'Happy to chat about \n any topics :)', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
