@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## About Me -->
 I am a PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/).
 I am fortunate to be advised by [Junxian He](https://jxhe.github.io/). 
-I am generally interested in natural language processing and machine learning and currently working on model merging.
+I am generally interested in large language models and currently working on model merging.
 
 ## 📝 Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=HqF5d38AAAAJ&hl=en).  
@@ -85,6 +85,7 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 -->
 
 ## 🎖 Awards
+- *2023.10* NeurIPS 2023 Scholar Award
 - *2023.06* Outstanding Undergraduate Thesis in SEU (top 3%)  
 - *2021.12* National Scholarship 
 
