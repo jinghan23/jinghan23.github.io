@@ -18,7 +18,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
 <!--compression-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='_pages/images/compression.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='_pages/images/compression.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Compression Represents Intelligence Linearly**
