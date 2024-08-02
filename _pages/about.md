@@ -84,6 +84,9 @@ Shiqi Chen, Yiran Zhao, *<ins>Jinghan Zhang</ins>*, I-Chun Chern, Siyang Gao, Pe
 NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2310.00741) [[github]](https://github.com/hkust-nlp/felm) [[website]](https://hkust-nlp.github.io/felm/) [[dataset]](https://huggingface.co/datasets/hkust-nlp/felm)
 -->
 
+## 🌟 Service
+Reviewer: NeurIPS, NLPCC
+
 ## 🎖 Awards
 - *2023.10* NeurIPS 2023 Scholar Award
 - *2023.06* Outstanding Undergraduate Thesis in SEU (top 3%)  
