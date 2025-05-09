@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## About Me -->
 I am a second-year PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/).
 I am fortunate to be advised by [Junxian He](https://jxhe.github.io/). 
-I am generally interested in large language models and vision language models, with experience on model merging, long context modeling and multiturn reasoning.
+I am generally interested in large language models and vision language models, with experiences in model merging, long context modeling and multiturn reasoning.
 
 ## 📝 Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=HqF5d38AAAAJ&hl=en).  
