@@ -9,13 +9,41 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/).
+I am a second-year PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/).
 I am fortunate to be advised by [Junxian He](https://jxhe.github.io/). 
-I am generally interested in large language models and currently working on model merging.
+I am generally interested in large language models and vision language models, with experience on model merging, long context modeling and multiturn reasoning.
 
 ## 📝 Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=HqF5d38AAAAJ&hl=en).  
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+
+<!--vlmmerging-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='_pages/images/vlmmerging.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**
+
+Shiqi Chen\*, *<ins>Jinghan Zhang</ins>*\*, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, Junxian He$^\dagger$  
+
+<p><a href="https://arxiv.org/abs/2505.05464">paper</a> | <a href="https://github.com/shiqichen17/VLM_Merging"><img src="https://img.shields.io/github/stars/shiqichen17/VLM_Merging?style=social" alt="" /></a></p>
+
+- **Abstract**: We enhance VLM reasoning via model merging and understand perception and reasoning ability inside model.
+</div>
+</div>
+
+<!--adaptvis-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='_pages/images/adaptvis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas**
+
+Shiqi Chen, Tongyao Zhu, Ruochen Zhou, *<ins>Jinghan Zhang</ins>*, Siyang Gao, Juan Carlos Niebles, Mor Geva, Junxian He, Jiajun Wu, Manling Li$^\dagger$  
+
+<p><a href="https://arxiv.org/abs/2503.01773">paper</a> | <a href="https://huggingface.co/datasets/AdaptVis/all_datasets">dataset</a> | <a href="https://github.com/shiqichen17/AdaptVis"><img src="https://img.shields.io/github/stars/shiqichen17/AdaptVis?style=social" alt="" /></a></p>
+
+- **Abstract**: A training-free decoding method called AdaptVis boosts VLM’s spatial reasoning by dynamically sharpening or broadening attention based on confidence, yielding up to 50-point accuracy gains on benchmarks.
+</div>
+</div>
 
 <!--compression-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='_pages/images/compression.png' alt="sym" width="100%"></div></div>
@@ -85,9 +113,10 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 -->
 
 ## 🌟 Service
-Reviewer: NeurIPS, NLPCC
+Reviewer: NeurIPS, ICLR, ICML, COLM, ACL Demo, NLPCC
 
 ## 🎖 Awards
+- *2024.9* COLM 2024 DEI Scholarship
 - *2023.10* NeurIPS 2023 Scholar Award
 - *2023.06* Outstanding Undergraduate Thesis in SEU (top 3%)  
 - *2021.12* National Scholarship 
