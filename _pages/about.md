@@ -17,6 +17,20 @@ I am generally interested in large language models and vision language models, w
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=HqF5d38AAAAJ&hl=en).  
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
+<!--worldmodel-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='_pages/images/worldmodel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Internalizing World Models via Self-Play Finetuning for Agentic RL**
+
+Shiqi Chen, Tongyao Zhu, Zhengyan Wang, *<ins>Jinghan Zhang</ins>*, Kaiwen Wang, Siyang Gao, Trevor Xiao, Yee Whye Teh, Junxian He, Manling Li$^\dagger$  
+
+<p><a href="https://arxiv.org/abs/2510.15047">paper</a></p>
+
+- **Abstract**: Self-play finetuning for agentic reinforcement learning by internalizing world models.
+</div>
+</div>
+
 <!--vlmmerging-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='_pages/images/vlmmerging.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,6 +125,26 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 Shiqi Chen, Yiran Zhao, *<ins>Jinghan Zhang</ins>*, I-Chun Chern, Siyang Gao, Pengfei Liu, Junxian He$^\dagger$  
 NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2310.00741) [[github]](https://github.com/hkust-nlp/felm) [[website]](https://hkust-nlp.github.io/felm/) [[dataset]](https://huggingface.co/datasets/hkust-nlp/felm)
 -->
+
+## 🎮 Side Quests
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**[TransPub](https://github.com/jinghan23/TransPub)** — One command to transform PDF books into translated audiobook websites. Handles chapter extraction, AI translation, summarization, TTS audio generation, and static site deployment.
+
+<p><a href="https://github.com/jinghan23/TransPub"><img src="https://img.shields.io/github/stars/jinghan23/TransPub?style=social" alt="" /></a></p>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**[xhs-likes-manager](https://github.com/jinghan23/xhs-likes-manager)** — A local tool to fetch, organize, auto-tag, and review your Xiaohongshu (小红书) liked and bookmarked posts. Features arXiv paper extraction from AI/ML posts and interactive terminal review.
+
+<p><a href="https://github.com/jinghan23/xhs-likes-manager"><img src="https://img.shields.io/github/stars/jinghan23/xhs-likes-manager?style=social" alt="" /></a></p>
+
+</div>
+</div>
 
 ## 🌟 Service
 Reviewer: NeurIPS, ICLR, ICML, COLM, ACL Demo, NLPCC
