@@ -127,24 +127,8 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 -->
 
 ## 🎮 Side Quests
-
-<div class='paper-box'><div class='paper-box-text' markdown="1">
-
-**[TransPub](https://github.com/jinghan23/TransPub)** — One command to transform PDF books into translated audiobook websites. Handles chapter extraction, AI translation, summarization, TTS audio generation, and static site deployment.
-
-<p><a href="https://github.com/jinghan23/TransPub"><img src="https://img.shields.io/github/stars/jinghan23/TransPub?style=social" alt="" /></a></p>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-text' markdown="1">
-
-**[xhs-likes-manager](https://github.com/jinghan23/xhs-likes-manager)** — A local tool to fetch, organize, auto-tag, and review your Xiaohongshu (小红书) liked and bookmarked posts. Features arXiv paper extraction from AI/ML posts and interactive terminal review.
-
-<p><a href="https://github.com/jinghan23/xhs-likes-manager"><img src="https://img.shields.io/github/stars/jinghan23/xhs-likes-manager?style=social" alt="" /></a></p>
-
-</div>
-</div>
+- **[TransPub](https://github.com/jinghan23/TransPub)** — One command to transform PDF books into translated audiobook websites.
+- **[xhs-likes-manager](https://github.com/jinghan23/xhs-likes-manager)** — Fetch, organize, and auto-tag your Xiaohongshu (小红书) likes and bookmarks.
 
 ## 🌟 Service
 Reviewer: NeurIPS, ICLR, ICML, COLM, ACL Demo, NLPCC
